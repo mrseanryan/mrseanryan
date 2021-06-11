@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings, Earthling 👋
+
+- 🔭 I’m currently working on [ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) ...
+- 👯 🤔 We can always use some more help with that ...
+- 🌱 I’m currently learning more about [the biz side to IT](https://www.cio.com/), FP and C#...
+- ⚡ Fun fact: I enjoy cooking new things ...
 
 <!--
 **mrseanryan/mrseanryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrseanryan&show_icons=true&theme=dark" alt="mrseanryan" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&layout=compact&hide=html&theme=dark" alt="mrseanryan" />
+<div/>
+<br />
+
+![Visitors since 11 June 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mrseanryan&repo=mrseanryan&countColor=%237B1E7A)
