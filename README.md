@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 <br />
 
 ## 📝 Blogs
+### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
 
-- [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
-- [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
-
-### Latest posts
+#### Latest posts
 <!-- BLOG-POST-LIST:START -->
 - [Finding dead or unused TypeScript code &lpar;unused exports&rpar;](http://antipatterns.blogspot.com/2022/11/finding-dead-or-unused-typescript-code.html)
 - [Towards type safety: Adding type hints &lpar;annotations&rpar; to Python code](http://antipatterns.blogspot.com/2022/11/towards-type-safety-adding-type-hints.html)
@@ -42,6 +40,12 @@ Here are some ideas to get you started:
 - [Outputting a data table in Markdown format using Python Pandas](http://antipatterns.blogspot.com/2022/11/outputting-data-table-in-markdown.html)
 - [Plotting a pie chart with &#39;other&#39; slice using matplotlib and data prepared via Pandas](http://antipatterns.blogspot.com/2022/11/plotting-pie-chart-with-other-slice.html)
 <!-- BLOG-POST-LIST:END -->
+
+### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
+
+#### Latest posts
+<!-- BLOG-POST-LIST-UIB:START -->
+<!-- BLOG-POST-LIST-UIB:END -->
  
 ## Badges
 
