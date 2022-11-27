@@ -1,5 +1,5 @@
 ### Greetings, Earthling 👋
-- 🌱 I’m currently learning more about Clean and Sustainable architecture, [the biz side to IT](https://www.cio.com/), FP and C#...
+- 🌱 I’m currently learning more about Clean and Sustainable architecture, Data Engineering and Functional Programming ...
 - ⚡ Fun fact: I enjoy cooking new things ...
 
 <!--
@@ -27,4 +27,9 @@ Here are some ideas to get you started:
 <div/>
 <br />
 
-![Visitors since 11 June 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mrseanryan&repo=mrseanryan&countColor=%237B1E7A)
+## 📝 Blogs
+
+- [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
+- [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
+
+  <a href='https://ko-fi.com/K3K73ALBJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
