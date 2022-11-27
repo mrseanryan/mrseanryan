@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 - [somebody&#39;s been php&#39;in ... - Dangers of source code disclosure for web site security](https://uiblunderz.blogspot.com/2018/12/somebodys-been-phpin.html)
 - [Lights are on, no license... - Risk of deploying a website with unlicensed software](https://uiblunderz.blogspot.com/2018/12/lights-are-on-no-license.html)
 - [Friendly Visual Studio dialog - Presenting errors with good UX](https://uiblunderz.blogspot.com/2018/12/friendly-visual-studio-dialog.html)
+- [travis-ty - Time formats are difficult and require OS and application/website regular maintenance &lpar;Y2K, 2038, short term decisions and long term issues&rpar;](https://uiblunderz.blogspot.com/2018/11/travis-ty.html)
+- [Yahoo: still learning ReactJS ... - Deploying a dev build to a live website](https://uiblunderz.blogspot.com/2018/11/yahoo-still-learning-reactjs.html)
+- [Windows Vista - reproducing 56.81 Shakespeares... - Operating Systems are complex and will always have bugs](https://uiblunderz.blogspot.com/2018/11/windows-vista-reproducing.html)
 <!-- BLOG-POST-LIST-UIB:END -->
  
 ## Badges
