@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding dead or unused TypeScript code &lpar;unused exports&rpar;](http://antipatterns.blogspot.com/2022/11/finding-dead-or-unused-typescript-code.html)
+- [Towards type safety: Adding type hints &lpar;annotations&rpar; to Python code](http://antipatterns.blogspot.com/2022/11/towards-type-safety-adding-type-hints.html)
+- [Versions and properties of ONNX Machine Learning model &lpar;opset, IR, domain...&rpar;](http://antipatterns.blogspot.com/2022/11/versions-and-properties-of-onnx-machine.html)
+- [Outputting a data table in Markdown format using Python Pandas](http://antipatterns.blogspot.com/2022/11/outputting-data-table-in-markdown.html)
+- [Plotting a pie chart with &#39;other&#39; slice using matplotlib and data prepared via Pandas](http://antipatterns.blogspot.com/2022/11/plotting-pie-chart-with-other-slice.html)
 <!-- BLOG-POST-LIST:END -->
  
 ## Badges
