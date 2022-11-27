@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST-UIB:START -->
+- [Google has Googaplexes but not Gigabytes - Good Enough software?](https://uiblunderz.blogspot.com/2022/10/google-has-googaplexes-but-not.html)
+- [Flamenco Dostoevsky - literary text used to obfuscate copyright content?](https://uiblunderz.blogspot.com/2021/09/flamenco-dostoevsky.html)
+- [somebody&#39;s been php&#39;in ... - Dangers of source code disclosure for web site security](https://uiblunderz.blogspot.com/2018/12/somebodys-been-phpin.html)
+- [Lights are on, no license... - Risk of deploying a website with unlicensed software](https://uiblunderz.blogspot.com/2018/12/lights-are-on-no-license.html)
+- [Friendly Visual Studio dialog - Presenting errors with good UX](https://uiblunderz.blogspot.com/2018/12/friendly-visual-studio-dialog.html)
 <!-- BLOG-POST-LIST-UIB:END -->
  
 ## Badges
