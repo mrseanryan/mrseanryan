@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 - [Versions and properties of ONNX Machine Learning model &lpar;opset, IR, domain...&rpar;](http://antipatterns.blogspot.com/2022/11/versions-and-properties-of-onnx-machine.html)
 - [Outputting a data table in Markdown format using Python Pandas](http://antipatterns.blogspot.com/2022/11/outputting-data-table-in-markdown.html)
 - [Plotting a pie chart with &#39;other&#39; slice using matplotlib and data prepared via Pandas](http://antipatterns.blogspot.com/2022/11/plotting-pie-chart-with-other-slice.html)
+- [Plotting a stacked bar chart via Python Pandas and matplotlib](http://antipatterns.blogspot.com/2022/11/plotting-stacked-bar-chart-via-python.html)
+- [Amazon Athena tip: access denied or insufficient permissions to access Athena](http://antipatterns.blogspot.com/2022/11/amazon-athena-tip-access-denied-or.html)
+- [Reading data from Athena via the command line - Comparing the options &lpar;AWS CLI, Python Boto, Java, AWS SDK&rpar;](http://antipatterns.blogspot.com/2022/11/reading-data-from-athena-via-command.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
