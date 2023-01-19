@@ -19,15 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrseanryan&show_icons=true&theme=dark" alt="mrseanryan" />
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&layout=compact&hide=html&theme=dark" alt="mrseanryan" />
-<div/>
-<br />
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
 
 ## 📝 Blogs
 ### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
