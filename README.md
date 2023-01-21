@@ -19,9 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
 
+
+[![Sean's GitHub stats](http://mrseanryan-github-readme-stats.vercel.app//api?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
+
+<!-- shared vercel app
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
+-->
+
+[![Top Langs](http://mrseanryan-github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
+
+<!-- shared vercel app
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
+-->
 
 ## 📝 Blogs
 ### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
