@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- my own vercel app - see https://vercel.com/mrseanryan - sign in via github -->
 
 [![Sean's GitHub stats](http://mrseanryan-github-readme-stats.vercel.app//api?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
 
