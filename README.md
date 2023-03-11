@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate a consistent &lpar;deterministic&rpar; hashcode in .NET Core &lpar;if that does not cause a security issue&rpar;](http://antipatterns.blogspot.com/2023/03/generate-consistent-deterministic.html)
 - [Generate a markdown summary of your C# unit tests via a simple C# script &lpar;CSX script executed via dotnet script or CSI.exe&rpar;](http://antipatterns.blogspot.com/2022/12/generate-markdown-summary-of-your-c.html)
 - [Using Python to automate calendar generation and image manipulation via matplotlib tables and PIL/pillow image library](http://antipatterns.blogspot.com/2022/11/using-python-to-automate-calendar.html)
 - [Finding dead or unused TypeScript code &lpar;unused exports&rpar;](http://antipatterns.blogspot.com/2022/11/finding-dead-or-unused-typescript-code.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [Versions and properties of ONNX Machine Learning model &lpar;opset, IR, domain...&rpar;](http://antipatterns.blogspot.com/2022/11/versions-and-properties-of-onnx-machine.html)
 - [Outputting a data table in Markdown format using Python Pandas](http://antipatterns.blogspot.com/2022/11/outputting-data-table-in-markdown.html)
 - [Plotting a pie chart with &#39;other&#39; slice using matplotlib and data prepared via Pandas](http://antipatterns.blogspot.com/2022/11/plotting-pie-chart-with-other-slice.html)
-- [Plotting a stacked bar chart via Python Pandas and matplotlib](http://antipatterns.blogspot.com/2022/11/plotting-stacked-bar-chart-via-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
