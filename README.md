@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Use a C# record type to declare a reusable tuple type &lpar;DRY&rpar;](http://antipatterns.blogspot.com/2023/03/use-c-record-type-to-declare-reusable.html)
+- [Iterating the values of an enum &lpar;enumeration type&rpar; in C#](http://antipatterns.blogspot.com/2023/03/iterating-values-of-enum-enumeration.html)
 - [Adding Jitter to solve Overplotting in a Pandas chart &lpar;overlapping data points&rpar;](http://antipatterns.blogspot.com/2023/03/adding-jitter-to-solve-overplotting-in.html)
 - [Generate a consistent &lpar;deterministic&rpar; hashcode in .NET Core &lpar;if that does not cause a security issue&rpar;](http://antipatterns.blogspot.com/2023/03/generate-consistent-deterministic.html)
 - [Generate a markdown summary of your C# unit tests via a simple C# script &lpar;CSX script executed via dotnet script or CSI.exe&rpar;](http://antipatterns.blogspot.com/2022/12/generate-markdown-summary-of-your-c.html)
 - [Using Python to automate calendar generation and image manipulation via matplotlib tables and PIL/pillow image library](http://antipatterns.blogspot.com/2022/11/using-python-to-automate-calendar.html)
 - [Finding dead or unused TypeScript code &lpar;unused exports&rpar;](http://antipatterns.blogspot.com/2022/11/finding-dead-or-unused-typescript-code.html)
 - [Towards type safety: Adding type hints &lpar;annotations&rpar; to Python code](http://antipatterns.blogspot.com/2022/11/towards-type-safety-adding-type-hints.html)
-- [Versions and properties of ONNX Machine Learning model &lpar;opset, IR, domain...&rpar;](http://antipatterns.blogspot.com/2022/11/versions-and-properties-of-onnx-machine.html)
-- [Outputting a data table in Markdown format using Python Pandas](http://antipatterns.blogspot.com/2022/11/outputting-data-table-in-markdown.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
