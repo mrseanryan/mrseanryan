@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating performance testing of core C# code - BenchmarkDotNet](http://antipatterns.blogspot.com/2023/08/automating-performance-testing-of-core.html)
+- [Error executing LLM model: Cuda error: no kernel image is available for execution on the device](http://antipatterns.blogspot.com/2023/08/error-executing-llm-model-cuda-error-no.html)
 - [Easy way to run an LLM AI &lpar;similar to ChatGPT&rpar; on your local machine](http://antipatterns.blogspot.com/2023/08/easy-way-to-run-llm-ai-similar-to.html)
 - [How to create a USB pen drive to Install Ubuntu  OS](http://antipatterns.blogspot.com/2023/08/how-to-create-usb-pen-drive-to-install.html)
 - [Async and Threading guidelines for dotNET from Microsoft](http://antipatterns.blogspot.com/2023/08/async-and-threading-guidelines-for.html)
 - [Use a C# record type to declare a reusable tuple type &lpar;DRY&rpar;](http://antipatterns.blogspot.com/2023/03/use-c-record-type-to-declare-reusable.html)
 - [Iterating the values of an enum &lpar;enumeration type&rpar; in C#](http://antipatterns.blogspot.com/2023/03/iterating-values-of-enum-enumeration.html)
 - [Adding Jitter to solve Overplotting in a Pandas chart &lpar;overlapping data points&rpar;](http://antipatterns.blogspot.com/2023/03/adding-jitter-to-solve-overplotting-in.html)
-- [Generate a consistent &lpar;deterministic&rpar; hashcode in .NET Core &lpar;if that does not cause a security issue&rpar;](http://antipatterns.blogspot.com/2023/03/generate-consistent-deterministic.html)
-- [Generate a markdown summary of your C# unit tests via a simple C# script &lpar;CSX script executed via dotnet script or CSI.exe&rpar;](http://antipatterns.blogspot.com/2022/12/generate-markdown-summary-of-your-c.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
