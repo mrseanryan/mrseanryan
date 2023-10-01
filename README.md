@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 - [Yahoo: still learning ReactJS ... - Deploying a dev build to a live website](https://uiblunderz.blogspot.com/2018/11/yahoo-still-learning-reactjs.html)
 - [Windows Vista - reproducing 56.81 Shakespeares... - Operating Systems are complex and will always have bugs](https://uiblunderz.blogspot.com/2018/11/windows-vista-reproducing.html)
 <!-- BLOG-POST-LIST-UIB:END -->
- 
+
+### [Medium](https://medium.com/@mr.sean.ryan)
+
 ## Badges
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseanryan" alt="mrseanryan" /></a> </p>
