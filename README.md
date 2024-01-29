@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate PDF from markdown via pandoc](http://antipatterns.blogspot.com/2024/01/generate-pdf-from-markdown-via-pandoc.html)
+- [Linting Python code using flake8: simple, fast and no false positives](http://antipatterns.blogspot.com/2024/01/linting-python-code-using-flake8-simple.html)
+- [Self-host your photos on Amazon CloudFront and S3: Cheap, fast and simple [OSS noobgallery]](http://antipatterns.blogspot.com/2024/01/self-host-your-photos-on-amazon.html)
+- [Sharing Python code via pypi packages - example: common Python utils bundled as &#39;cornsnake&#39;](http://antipatterns.blogspot.com/2024/01/sharing-python-code-via-pypi-packages.html)
 - [Tools, libraries and web sites for Resizing Images [C#, Python, JavaScript and online tools]](http://antipatterns.blogspot.com/2023/10/tools-libraries-and-web-sites-for.html)
 - [Automating performance testing of core C# code - BenchmarkDotNet](http://antipatterns.blogspot.com/2023/08/automating-performance-testing-of-core.html)
 - [Error executing LLM model: Cuda error: no kernel image is available for execution on the device](http://antipatterns.blogspot.com/2023/08/error-executing-llm-model-cuda-error-no.html)
 - [Easy way to run an LLM AI &lpar;similar to ChatGPT&rpar; on your local machine](http://antipatterns.blogspot.com/2023/08/easy-way-to-run-llm-ai-similar-to.html)
-- [How to create a USB pen drive to Install Ubuntu  OS](http://antipatterns.blogspot.com/2023/08/how-to-create-usb-pen-drive-to-install.html)
-- [Async and Threading guidelines for dotNET from Microsoft](http://antipatterns.blogspot.com/2023/08/async-and-threading-guidelines-for.html)
-- [Use a C# record type to declare a reusable tuple type &lpar;DRY&rpar;](http://antipatterns.blogspot.com/2023/03/use-c-record-type-to-declare-reusable.html)
-- [Iterating the values of an enum &lpar;enumeration type&rpar; in C#](http://antipatterns.blogspot.com/2023/03/iterating-values-of-enum-enumeration.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
