@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu apt tips](http://antipatterns.blogspot.com/2024/05/ubuntu-apt-tips.html)
 - [Comparing Costs of Cloud Providers - vantage.sh](http://antipatterns.blogspot.com/2024/04/comparing-costs-of-cloud-providers.html)
 - [Structured Logging &lpar;Semantic Logging&rpar; in Python and C#](http://antipatterns.blogspot.com/2024/04/structured-logging-semantic-logging-in.html)
 - [Scanning Python code for security issues via Snyk: the ‘industrial strength’ option](http://antipatterns.blogspot.com/2024/02/scanning-python-code-for-security.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [Generate PDF from markdown via pandoc](http://antipatterns.blogspot.com/2024/01/generate-pdf-from-markdown-via-pandoc.html)
 - [Linting Python code using ruff or flake8: simple, fast, free and no false positives](http://antipatterns.blogspot.com/2024/01/linting-python-code-using-flake8-simple.html)
 - [Self-host your photos on Amazon CloudFront and S3: Cheap, fast and simple [OSS noobgallery]](http://antipatterns.blogspot.com/2024/01/self-host-your-photos-on-amazon.html)
-- [Sharing Python code via pypi packages - example: common Python utils bundled as &#39;cornsnake&#39;](http://antipatterns.blogspot.com/2024/01/sharing-python-code-via-pypi-packages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
