@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Show the source code of a Python module &lpar;also in Jupyter&rpar;](http://antipatterns.blogspot.com/2024/10/show-source-code-of-python-module-also.html)
 - [Articles about tests involving 3rd party services - End-to-end instead of Integration or Contract tests](http://antipatterns.blogspot.com/2024/09/articles-about-tests-involving-3rd.html)
 - [Exporting a Jupyter notebook without the input code](http://antipatterns.blogspot.com/2024/06/exporting-jupyter-notebook-without.html)
 - [World maps in Python - free map resources](http://antipatterns.blogspot.com/2024/06/world-maps-in-python-free.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [Expanding columns and rows in pandas results in Jupyter notebook](http://antipatterns.blogspot.com/2024/06/expanding-columns-in-pandas-results-in.html)
 - [Converting a Python array to a pandas dataframe [multiplying data]](http://antipatterns.blogspot.com/2024/06/converting-python-array-to-pandas.html)
 - [Ubuntu apt &lpar;and apt-get&rpar; tips](http://antipatterns.blogspot.com/2024/05/ubuntu-apt-tips.html)
-- [Comparing Costs of Cloud Providers - vantage.sh](http://antipatterns.blogspot.com/2024/04/comparing-costs-of-cloud-providers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
