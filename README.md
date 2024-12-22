@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Debugging Tips](http://antipatterns.blogspot.com/2024/12/python-debugging-tips.html)
 - [Adding custom &#39;summary&#39; charts to MLflow: simple bar chart and &#39;grouped&#39; bar chart](http://antipatterns.blogspot.com/2024/12/adding-custom-summary-charts-to-mlflow.html)
 - [Show the source code of a Python module &lpar;also in Jupyter&rpar;](http://antipatterns.blogspot.com/2024/10/show-source-code-of-python-module-also.html)
 - [Articles about tests involving 3rd party services - End-to-end instead of Integration or Contract tests](http://antipatterns.blogspot.com/2024/09/articles-about-tests-involving-3rd.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [World maps in Python - free map resources](http://antipatterns.blogspot.com/2024/06/world-maps-in-python-free.html)
 - [Avoiding SettingsWithCopyWarning from pandas when adding a column as function of other columns](http://antipatterns.blogspot.com/2024/06/avoiding-settingswithcopywarning-from.html)
 - [Expanding columns and rows in pandas results in Jupyter notebook](http://antipatterns.blogspot.com/2024/06/expanding-columns-in-pandas-results-in.html)
-- [Converting a Python array to a pandas dataframe [multiplying data]](http://antipatterns.blogspot.com/2024/06/converting-python-array-to-pandas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
