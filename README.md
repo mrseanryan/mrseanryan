@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic: Dynamically creating a model, with field types, examples and descriptions.](http://antipatterns.blogspot.com/2025/02/pydantic-dynamically-creating-model.html)
 - [Python: Convert a base64 encoded PDF file to a list of PIL &lpar;pillow&rpar; Images](http://antipatterns.blogspot.com/2025/02/python-convert-base64-encoded-pdf-file.html)
 - [Problem: poetry does not pick up the current &#39;local&#39; python &lpar;set via pyenv&rpar;](http://antipatterns.blogspot.com/2025/01/problem-poetry-does-not-pick-up-current.html)
 - [A starter template for a Python Command Line program](http://antipatterns.blogspot.com/2025/01/a-starter-template-for-python-command.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [Python Debugging Tips](http://antipatterns.blogspot.com/2024/12/python-debugging-tips.html)
 - [Adding custom &#39;summary&#39; charts to MLflow: simple bar chart and &#39;grouped&#39; bar chart](http://antipatterns.blogspot.com/2024/12/adding-custom-summary-charts-to-mlflow.html)
 - [Show the source code of a Python module &lpar;also in Jupyter&rpar;](http://antipatterns.blogspot.com/2024/10/show-source-code-of-python-module-also.html)
-- [Articles about tests involving 3rd party services - End-to-end instead of Integration or Contract tests](http://antipatterns.blogspot.com/2024/09/articles-about-tests-involving-3rd.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
