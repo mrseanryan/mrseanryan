@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing or Repairing Windows Installation and Checking Disks for Errors](http://antipatterns.blogspot.com/2025/05/fixing-or-repairing-windows.html)
 - [REST API guidelines from Microsoft](http://antipatterns.blogspot.com/2025/03/rest-api-guidelines-from-microsoft.html)
 - [Pydantic: Dynamically creating a model, with field types, examples and descriptions.](http://antipatterns.blogspot.com/2025/02/pydantic-dynamically-creating-model.html)
 - [Python: Convert a base64 encoded PDF file to a list of PIL &lpar;pillow&rpar; Images](http://antipatterns.blogspot.com/2025/02/python-convert-base64-encoded-pdf-file.html)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [A starter template for a Python Command Line program](http://antipatterns.blogspot.com/2025/01/a-starter-template-for-python-command.html)
 - [How to read and write a Pydantic class to/from a JSON file.](http://antipatterns.blogspot.com/2025/01/how-to-read-and-write-pydantic-class.html)
 - [Python Debugging Tips](http://antipatterns.blogspot.com/2024/12/python-debugging-tips.html)
-- [Adding custom &#39;summary&#39; charts to MLflow: simple bar chart and &#39;grouped&#39; bar chart](http://antipatterns.blogspot.com/2024/12/adding-custom-summary-charts-to-mlflow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
