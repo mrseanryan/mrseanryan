@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseanryan&theme=blue-green&show_icons=true)](https://github.com/mrseanryan/github-readme-stats)
 -->
 
-## 📝 Blogs
+## 📝 Blogs, Articles & Videos
 
-### [Medium](https://medium.com/@mr.sean.ryan) - Applied Machine Learning, application development tips and tricks, and more.
+### [Medium](https://medium.com/@mr.sean.ryan) - Applied Machine Learning, Application development tips and tricks, and more.
 
-#### Latest posts
 <!-- BLOG-POST-LIST-MEDIUM:START -->
 - [Automatically Evaluate Hostile Prompt Handling for your LLM Application [LLM Security Series — Part…](https://medium.com/@mr.sean.ryan/automatically-evaluate-hostile-prompt-handling-for-your-llm-application-llm-security-series-part-858a150e5bd7?source=rss-92e36ffeffee------2)
 - [Security Risks and Mitigations for your LLM Application [LLM Security Series — Part 2]](https://devsecopsai.today/security-risks-and-mitigations-for-your-llm-application-llm-security-series-part-2-1464ee750cb2?source=rss-92e36ffeffee------2)
@@ -49,9 +48,8 @@ Here are some ideas to get you started:
 - [Tooling for inspecting and summarizing LLM outputs](https://medium.com/@mr.sean.ryan/tooling-for-inspecting-and-summarising-llm-outputs-b1151425cc5b?source=rss-92e36ffeffee------2)
 <!-- BLOG-POST-LIST-MEDIUM:END -->
 
-### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
+### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - Coding problems and solutions
 
-#### Latest posts
 <!-- BLOG-POST-LIST-APC:START -->
 - [Fixing or Repairing Windows Installation and Checking Disks for Errors](http://antipatterns.blogspot.com/2025/05/fixing-or-repairing-windows.html)
 - [REST API guidelines from Microsoft](http://antipatterns.blogspot.com/2025/03/rest-api-guidelines-from-microsoft.html)
@@ -63,10 +61,8 @@ Here are some ideas to get you started:
 - [Python Debugging Tips](http://antipatterns.blogspot.com/2024/12/python-debugging-tips.html)
 <!-- BLOG-POST-LIST-APC:END -->
 
-
 ### [Gists](https://gist.github.com/mrseanryan) - My Github gists
 
-#### Latest posts
 <!-- BLOG-POST-LIST-GIST:START -->
 - [notebook--toxic-or-neutral-labelled-dataset](https://gist.github.com/mrseanryan/21b1d38ebd4b513024a6f460161c3469)
 - [Download an LLM for use with text-generation-webui on Ubuntu](https://gist.github.com/mrseanryan/2f168d1f268759e10601b09aa4b2db4a)
@@ -78,9 +74,8 @@ Here are some ideas to get you started:
 - [AWS EC2 script to install text-generation-webui as a Ubuntu service](https://gist.github.com/mrseanryan/6bf26b78c6af43fe38d322533c8e10b5)
 <!-- BLOG-POST-LIST-GIST:END -->
 
-### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
+### [UI Blunderz](https://uiblunderz.blogspot.com/) - Software Engineering and Quality commentary
 
-#### Latest posts
 <!-- BLOG-POST-LIST-UIB:START -->
 - [Google has Googaplexes but not Gigabytes - Good Enough software?](https://uiblunderz.blogspot.com/2022/10/google-has-googaplexes-but-not.html)
 - [Flamenco Dostoevsky - literary text used to obfuscate copyright content?](https://uiblunderz.blogspot.com/2021/09/flamenco-dostoevsky.html)
@@ -93,9 +88,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST-UIB:END -->
 
 
-### [YouTube Drone & Timelapse Videos](https://www.youtube.com/@SeaniusShows)
+### [YouTube Drone & Timelapse Videos](https://www.youtube.com/@SeaniusShows) - Drone & Timelapse videos
 
-#### Latest videos
 <!-- BLOG-POST-LIST-YOUTUBE:START -->
 - [Bull Island, Dublin on a windy day [4K drone]](https://www.youtube.com/watch?v=dS00FHfKg6Y)
 - [Northern Lights timelapse &lpar;Abisko, Sweden&rpar; [15 Sept 2024] [4K]](https://www.youtube.com/watch?v=d3xBFTkKdyI)
