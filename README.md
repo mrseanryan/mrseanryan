@@ -107,3 +107,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrseanryan" alt="mrseanryan" /></a> </p>
   
 <a href='https://ko-fi.com/K3K73ALBJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+## How This Page Works
+
+This page was put together using these amazing open-source projects:
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - provides the Github stats charts (via Vercel)
+- [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - updates from various feeds (Medium, blogs, gists...) (via Github Actions)
