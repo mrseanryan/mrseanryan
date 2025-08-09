@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST-UIB:END -->
 
 
-### [YouTube Drone & Timelapse Videos](https://www.youtube.com/@SeaniusShows) - Drone & Timelapse videos
+### [YouTube Channel](https://www.youtube.com/@SeaniusShows) - Drone & Timelapse videos
 
 <!-- BLOG-POST-LIST-YOUTUBE:START -->
 - [Bull Island, Dublin on a windy day [4K drone]](https://www.youtube.com/watch?v=dS00FHfKg6Y)
