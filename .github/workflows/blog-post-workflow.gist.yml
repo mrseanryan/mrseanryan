@@ -1,12 +1,12 @@
 name: Latest blog post workflow - gist
 on:
   schedule: # Run workflow automatically
-    - cron: '30 9 * * *' # Runs 9:30am, daily
+    - cron: '30 7 * * *' # Runs 7:30am, daily
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts from Gist
+    name: Update this repo's README with latest blog posts from github gists
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

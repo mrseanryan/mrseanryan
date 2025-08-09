@@ -1,7 +1,7 @@
 name: Latest blog post workflow - YouTube
 on:
   schedule: # Run workflow automatically
-    - cron: '* 9 * * *' # Runs 9:00am, daily
+    - cron: '0 9 * * *' # Runs 9:00am, daily
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
