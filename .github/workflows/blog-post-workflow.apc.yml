@@ -15,4 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://antipatterns.blogspot.com/feeds/posts/default"
+          comment_tag_name: BLOG-POST-LIST-APC
           max_post_count: 8
