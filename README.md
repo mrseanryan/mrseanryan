@@ -68,6 +68,14 @@ Here are some ideas to get you started:
 
 #### Latest posts
 <!-- BLOG-POST-LIST-GIST:START -->
+- [notebook--toxic-or-neutral-labelled-dataset](https://gist.github.com/mrseanryan/21b1d38ebd4b513024a6f460161c3469)
+- [Download an LLM for use with text-generation-webui on Ubuntu](https://gist.github.com/mrseanryan/2f168d1f268759e10601b09aa4b2db4a)
+- [Basic NON interactive install of text-generation-webui to host LLM on Ubuntu - for 24GB GPU such as AWS EC2 G4 or G5 box](https://gist.github.com/mrseanryan/f1f572f8a16c0dd37741bdb232bb4c61)
+- [CloudFront script to create an EC2 GPU instance hosting an LLM](https://gist.github.com/mrseanryan/9c114b206373bb52412e573e8c6b2716)
+- [AWS: describe available instance types with GPU memory](https://gist.github.com/mrseanryan/c352dd9e829cbc1088362c815da43eb7)
+- [Bash script to lint Python code via flake8 - shows how to disable rules.](https://gist.github.com/mrseanryan/a7d8ed4bfda2f3f6e495bfe719e8d35c)
+- [Create script to start existing install of text-generation-webui](https://gist.github.com/mrseanryan/2dcdb8182c05d1ea116e6bd0b772ba3d)
+- [AWS EC2 script to install text-generation-webui as a Ubuntu service](https://gist.github.com/mrseanryan/6bf26b78c6af43fe38d322533c8e10b5)
 <!-- BLOG-POST-LIST-GIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
