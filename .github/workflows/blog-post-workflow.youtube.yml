@@ -1,0 +1,19 @@
+name: Latest blog post workflow - YouTube
+on:
+  schedule: # Run workflow automatically
+    - cron: '* 9 * * *' # Runs 9:00am, daily
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCY3lk0VriYUxmVLkWnxPXYQ"
+          comment_tag_name: BLOG-POST-LIST-YOUTUBE
+          max_post_count: 8

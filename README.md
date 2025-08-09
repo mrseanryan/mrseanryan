@@ -34,10 +34,17 @@ Here are some ideas to get you started:
 -->
 
 ## 📝 Blogs
+
+### [Medium](https://medium.com/@mr.sean.ryan) - Applied Machine Learning, application development tips and tricks, and more.
+
+#### Latest posts
+<!-- BLOG-POST-LIST-MEDIUM:START -->
+<!-- BLOG-POST-LIST-MEDIUM:END -->
+
 ### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - coding problems and solutions
 
 #### Latest posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST-APC:START -->
 - [Fixing or Repairing Windows Installation and Checking Disks for Errors](http://antipatterns.blogspot.com/2025/05/fixing-or-repairing-windows.html)
 - [REST API guidelines from Microsoft](http://antipatterns.blogspot.com/2025/03/rest-api-guidelines-from-microsoft.html)
 - [Pydantic: Dynamically creating a model, with field types, examples and descriptions.](http://antipatterns.blogspot.com/2025/02/pydantic-dynamically-creating-model.html)
@@ -46,7 +53,14 @@ Here are some ideas to get you started:
 - [A starter template for a Python Command Line program](http://antipatterns.blogspot.com/2025/01/a-starter-template-for-python-command.html)
 - [How to read and write a Pydantic class to/from a JSON file.](http://antipatterns.blogspot.com/2025/01/how-to-read-and-write-pydantic-class.html)
 - [Python Debugging Tips](http://antipatterns.blogspot.com/2024/12/python-debugging-tips.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST-APC:END -->
+
+
+### [Gists]gi(https://gist.github.com/mrseanryan) - My Github gists
+
+#### Latest posts
+<!-- BLOG-POST-LIST-GIST:START -->
+<!-- BLOG-POST-LIST-GIST:END -->
 
 ### [UI Blunderz](https://uiblunderz.blogspot.com/) - software engineering and quality commentary
 
@@ -62,7 +76,13 @@ Here are some ideas to get you started:
 - [Windows Vista - reproducing 56.81 Shakespeares... - Operating Systems are complex and will always have bugs](https://uiblunderz.blogspot.com/2018/11/windows-vista-reproducing.html)
 <!-- BLOG-POST-LIST-UIB:END -->
 
-### [Medium](https://medium.com/@mr.sean.ryan)
+
+### [YouTube Drone & Timelapse Videos](https://www.youtube.com/@SeaniusShows)
+
+#### Latest videos
+<!-- BLOG-POST-LIST-YOUTUBE:START -->
+<!-- BLOG-POST-LIST-YOUTUBE:END -->
+
 
 ## Badges
 
