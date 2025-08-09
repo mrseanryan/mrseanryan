@@ -89,6 +89,14 @@ Here are some ideas to get you started:
 
 #### Latest videos
 <!-- BLOG-POST-LIST-YOUTUBE:START -->
+- [Bull Island, Dublin on a windy day [4K drone]](https://www.youtube.com/watch?v=dS00FHfKg6Y)
+- [Northern Lights timelapse &lpar;Abisko, Sweden&rpar; [15 Sept 2024] [4K]](https://www.youtube.com/watch?v=d3xBFTkKdyI)
+- [Fireworks at Rotterdam Wereldhaven [2024-09] [4K]](https://www.youtube.com/watch?v=792uwQf9waE)
+- [[4K] Aurora and Perseid meteors timelapse near Meijendel, Den Haag [2024-08]](https://www.youtube.com/watch?v=KfpNkncQHu0)
+- [Timelapse of moon with Den Hoorn church on the horizon - from dusk to dawn [2024-07] [4k]](https://www.youtube.com/watch?v=mGVIMkDKsqE)
+- [Texel timelapse of moonlit clouds and dunes &lpar;2024-07&rpar; [4K]](https://www.youtube.com/watch?v=ffQRDB3WhGs)
+- [Ghent flyover - St Michael&#39;s and St Nicholas [4K drone] &lpar;March&#39;24&rpar;](https://www.youtube.com/watch?v=E9z86FM4WKw)
+- [Ghent castle Gravensteen from the air [4K drone] &lpar;March&#39;24&rpar;](https://www.youtube.com/watch?v=6dqS4svL1Qw)
 <!-- BLOG-POST-LIST-YOUTUBE:END -->
 
 
