@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST-APC:END -->
 
 
-### [Gists]gi(https://gist.github.com/mrseanryan) - My Github gists
+### [Gists](https://gist.github.com/mrseanryan) - My Github gists
 
 #### Latest posts
 <!-- BLOG-POST-LIST-GIST:START -->
