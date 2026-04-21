@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 ### [Medium](https://medium.com/@mr.sean.ryan) - Applied Machine Learning, Application development tips and tricks, and more.
 
 <!-- BLOG-POST-LIST-MEDIUM:START -->
+- [AIAD Tooling: Adopt GSD Lite for the best of GSD &lpar;Get Shit Done&rpar; with Minimal Process](https://medium.com/@mr.sean.ryan/aiad-tooling-adopt-gsd-lite-for-the-best-of-gsd-get-shit-done-with-minimal-process-6c9909a51eb1?source=rss-92e36ffeffee------2)
+- [AIAD Tooling: Comparing OpenCode vs Claude SpecKit vs GSD](https://medium.com/@mr.sean.ryan/aiad-tooling-comparing-opencode-vs-claude-speckit-vs-gsd-a6466de44658?source=rss-92e36ffeffee------2)
 - [Automatically Evaluate Hostile Prompt Handling for your LLM Application [LLM Security Series — Part…](https://medium.com/@mr.sean.ryan/automatically-evaluate-hostile-prompt-handling-for-your-llm-application-llm-security-series-part-858a150e5bd7?source=rss-92e36ffeffee------2)
 - [Security Risks and Mitigations for your LLM Application [LLM Security Series — Part 2]](https://devsecopsai.today/security-risks-and-mitigations-for-your-llm-application-llm-security-series-part-2-1464ee750cb2?source=rss-92e36ffeffee------2)
 - [LLM Hackers Can See Your Prompt [LLM Security Series — Part 1]](https://devsecopsai.today/llm-hackers-can-see-your-prompt-llm-security-series-part-1-b5dfc7b27d02?source=rss-92e36ffeffee------2)
 - [Typed vs untyped languages: considering the case for a culturally-based preference](https://medium.com/@mr.sean.ryan/typed-vs-untyped-languages-considering-the-case-for-a-culturally-based-preference-4bdd25de862d?source=rss-92e36ffeffee------2)
 - [Where is the hard evidence that ‘better’ languages produce less bugs?](https://medium.com/@mr.sean.ryan/where-is-the-hard-evidence-that-better-languages-produce-less-bugs-808b06f32986?source=rss-92e36ffeffee------2)
 - [Prompt Engineering: Using an intermediate structured format to improve the generative quality of a…](https://medium.com/@mr.sean.ryan/prompt-engineering-using-an-intermediate-structured-format-to-improve-the-generative-quality-of-a-02d852a29d7a?source=rss-92e36ffeffee------2)
-- [Design Stage-Based AI Applications for human-in-the-loop: engaging users and reducing perceived…](https://medium.com/@mr.sean.ryan/design-stage-based-ai-applications-for-human-in-the-loop-engaging-users-and-reducing-perceived-41f91343bf04?source=rss-92e36ffeffee------2)
-- [Tooling for inspecting and summarizing LLM outputs](https://medium.com/@mr.sean.ryan/tooling-for-inspecting-and-summarising-llm-outputs-b1151425cc5b?source=rss-92e36ffeffee------2)
 <!-- BLOG-POST-LIST-MEDIUM:END -->
 
 ### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - Coding problems and solutions
