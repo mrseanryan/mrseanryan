@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ### [Medium](https://medium.com/@mr.sean.ryan) - Applied Machine Learning, Application development tips and tricks, and more.
 
 <!-- BLOG-POST-LIST-MEDIUM:START -->
+- [Your 2nd Brain via meowary OSS: use AI to consume One Note, Confluence, ADRs, Source code …](https://medium.com/@mr.sean.ryan/your-2nd-brain-via-meowary-oss-use-ai-to-consume-one-note-confluence-adrs-source-code-f94758e66e79?source=rss-92e36ffeffee------2)
 - [OpenCode Security Tip: Lock Down and Double-check the LLM Provider](https://medium.com/@mr.sean.ryan/opencode-security-tip-lock-down-and-double-check-the-llm-provider-d1f0d5bd31e7?source=rss-92e36ffeffee------2)
 - [AIAD Tooling: Adopt GSD Lite for the best of GSD &lpar;Get Shit Done&rpar; with Minimal Process](https://medium.com/@mr.sean.ryan/aiad-tooling-adopt-gsd-lite-for-the-best-of-gsd-get-shit-done-with-minimal-process-6c9909a51eb1?source=rss-92e36ffeffee------2)
 - [AIAD Tooling: Comparing OpenCode vs Claude SpecKit vs GSD](https://medium.com/@mr.sean.ryan/aiad-tooling-comparing-opencode-vs-claude-speckit-vs-gsd-a6466de44658?source=rss-92e36ffeffee------2)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [Security Risks and Mitigations for your LLM Application [LLM Security Series — Part 2]](https://devsecopsai.today/security-risks-and-mitigations-for-your-llm-application-llm-security-series-part-2-1464ee750cb2?source=rss-92e36ffeffee------2)
 - [LLM Hackers Can See Your Prompt [LLM Security Series — Part 1]](https://devsecopsai.today/llm-hackers-can-see-your-prompt-llm-security-series-part-1-b5dfc7b27d02?source=rss-92e36ffeffee------2)
 - [Typed vs untyped languages: considering the case for a culturally-based preference](https://medium.com/@mr.sean.ryan/typed-vs-untyped-languages-considering-the-case-for-a-culturally-based-preference-4bdd25de862d?source=rss-92e36ffeffee------2)
-- [Where is the hard evidence that ‘better’ languages produce less bugs?](https://medium.com/@mr.sean.ryan/where-is-the-hard-evidence-that-better-languages-produce-less-bugs-808b06f32986?source=rss-92e36ffeffee------2)
 <!-- BLOG-POST-LIST-MEDIUM:END -->
 
 ### [Anti-Patterns Codin'](https://antipatterns.blogspot.com/) - Coding problems and solutions
